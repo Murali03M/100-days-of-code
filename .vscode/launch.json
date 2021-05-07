@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Solution1",
+            "request": "launch",
+            "mainClass": "Solution1",
+            "projectName": "100-days-of-code_df4cd8f8"
+        },
+        {
+            "type": "java",
             "name": "Launch Enum",
             "request": "launch",
             "mainClass": "Enum",
