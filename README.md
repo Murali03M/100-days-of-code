@@ -18,3 +18,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Enum in java
           - Decision making in java
           - Loops in java
+     
+
+**Day 2 :**  
+
+          - Constructors
+          - static
+          - Packages
+          - Loops in Java
