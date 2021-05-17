@@ -11,3 +11,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Introduction of JAVA
           - Java data types
           - Java Variables
+         
+
+**Day 2 :**  
+
+          - Enum in java
+          - Decision making in java
+          - Loops in java
