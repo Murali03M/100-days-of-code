@@ -12,6 +12,6 @@ public class HashDemo {
             System.out.println(number);
 
             //removeAll()
-
+ 
         }
 }
