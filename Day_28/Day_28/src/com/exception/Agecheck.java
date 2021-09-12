@@ -25,8 +25,7 @@ public class Agecheck
 			this.age = age;
 		}
 		void display()
-		{
-			try {
+		{			try {
 	   if(this.age>18)
 	   {
 		  
