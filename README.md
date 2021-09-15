@@ -20,7 +20,7 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Loops in java
      
 
-**Day 2 :**  
+**Day 3 :**  
 
           - Constructors
           - static
