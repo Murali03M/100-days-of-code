@@ -10,8 +10,8 @@ public class Idcomp implements Comparator<Product> {
 		 {
 			 temp=-1;
 			 
-		 }
-		 else
+		 } 
+        else
 		 {
 			 temp=1;
 		 }
