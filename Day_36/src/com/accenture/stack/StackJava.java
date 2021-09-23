@@ -1,5 +1,6 @@
 package com.accenture.stack;
 
+import java.util.EmptyStackException;
 import java.util.Stack;
 
 public class StackJava {
@@ -23,6 +24,16 @@ public class StackJava {
 		showpush(st,16);
 		showpop(st);
 		showpush(st,13);
+		showpop(st);
+		showpop(st);
+		try
+		{
+			showpop(st);
+		}catch(EmptyStackException e)
+		{
+			System.out.println("empty stack");
+		}
+		
 	}
 
 }
