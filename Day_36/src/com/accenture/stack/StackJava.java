@@ -12,7 +12,7 @@ public class StackJava {
 	}
  static void showpop(Stack st)
  {
-	 Integer a=(Integer) st.pop();
+	  st.pop();
 	 System.out.println(st);
  }
 	
