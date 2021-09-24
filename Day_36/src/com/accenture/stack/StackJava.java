@@ -10,6 +10,7 @@ public class StackJava {
 		System.out.println("push"+a);
 		System.out.println("Stack"+st);
 	}
+	
  static void showpop(Stack st)
  {
 	  st.pop();
