@@ -2956,3 +2956,6 @@ java.lang.NullPointerException: Cannot invoke "java.util.List.size()" because "t
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-09-25 19:28:21.500
+!MESSAGE The workspace will exit with unsaved changes in this session.
