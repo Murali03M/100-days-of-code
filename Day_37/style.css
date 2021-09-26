@@ -1,0 +1,16 @@
+body{
+
+    background-color: black;
+    color: green;
+    font-size: 16px;
+    font-weight:normal;
+    line-height: 1.6em;
+
+}
+
+.box
+{
+    margin-top: 5px red solid;
+    background-color: blue;
+    border: 5px red solid; 
+}
