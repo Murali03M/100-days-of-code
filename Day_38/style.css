@@ -1,0 +1,15 @@
+.content
+{
+    margin-top: 10px;
+    color: black;
+    background-color: blue;
+    border-color: brown;
+    border-bottom: 4px red solid;
+}
+
+.box{
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    text-decoration: underline;
+}
