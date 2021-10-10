@@ -10,6 +10,7 @@ public class Idcomp implements Comparator<Product> {
 		 {
 			 temp=-1;
 			 
+			 
 		 } 
         else
 		 {
