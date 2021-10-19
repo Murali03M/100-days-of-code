@@ -22,7 +22,9 @@ public class Buttonexample extends JFrame {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 	}
-   public static void main(String[] args)
+
+
+	public static void main(String[] args)
    {
 	  new Buttonexample();
    }
