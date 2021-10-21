@@ -19,6 +19,7 @@ public class Bubblesort {
 		}
 		printnumber(array);
 	}
+	
 	public static void swapnumber(int i,int j,int[] array)
 	{
 		int temp;
