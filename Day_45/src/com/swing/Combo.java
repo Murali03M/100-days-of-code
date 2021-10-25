@@ -8,6 +8,7 @@ public class Combo {
 	  JFrame f;
 	  Combo()
 	  {
+		  
 		  f=new JFrame("combo box");
 		  String[] lang= {"c program","java","python"};
           JComboBox b=new JComboBox(lang);
