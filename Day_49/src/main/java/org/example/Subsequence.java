@@ -17,7 +17,7 @@ public class Subsequence {
             System.out.println(arr);
             return ;
         }
-        
+
         subsequesnce(arr,index+1 );
         
 
